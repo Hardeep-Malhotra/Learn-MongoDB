@@ -10,7 +10,7 @@ Focus: Understanding **how MongoDB works internally** through direct shell inter
 
 ## 🎯 Objective of This Repository
 
-- Learn MongoDB by writing **real queries in mongosh**  
+- Learn MongoDB by writing **real querie's in mongosh**  
 - Understand **NoSQL data modeling**  
 - Practice **CRUD, filtering, projection, and updates**  
 - Master the **Aggregation Framework**  
